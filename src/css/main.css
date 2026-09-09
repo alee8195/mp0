@@ -16,6 +16,7 @@ body {
     padding: 50px;
     background-color: #287855;
     text-align: center;
+    vertical-align: middle;
     color: white;
     margin: 0 auto;
 }
